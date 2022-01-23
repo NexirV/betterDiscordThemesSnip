@@ -16,7 +16,7 @@
     transform: scaleX(1);
     position: absolute;
     bottom:-40%;
-    right:-10%;
+    right:-11%;
 }
 #online-tab [style*='background-image: url("/assets/b36de980b174d7b798c89f35c116e5c6.svg");']::after{
     content:""; 
@@ -28,7 +28,7 @@
     transform: scaleX(-1);
     position: absolute;
     bottom:-40%;/*bruttino ma....*/
-    left:-10%;
+    left:-11%;
 }
 #online-tab .flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyCenter-3D2jYp.alignCenter-1dQNNs.noWrap-3jynv6.wrapper-r-6rrt{
     max-width: none;
