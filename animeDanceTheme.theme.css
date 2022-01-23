@@ -1,38 +1,34 @@
-/**
-  * @name        wewe
-  * @description waifu dance lol XD
-  * @author some gay guy
-  */
 #online-tab [style*='flex: 0 1 auto; width: 421px; height: 218px; background-image: url("/assets/b36de980b174d7b798c89f35c116e5c6.svg");']{
-    background-image: url(https://i.imgur.com/GkxXKGK.gif) !important;
+    background-image: url(https://i.imgur.com/PcwN0YG.gif) !important;
     background-repeat: no-repeat;/*il dato da sovrascrivere è backgorund-image*/
-    height: 98.5597% !important;/*one day I solve this thing... I swear*/
-    width: 67.3968% !important;
+    height: 100% !important;/*one day I solve this thing... I swear*/
+    width: 272% !important;
     z-index: 999999999;
+    margin-bottom: 0px;
 }
 #online-tab [style*='background-image: url("/assets/b36de980b174d7b798c89f35c116e5c6.svg");']::before{
     content:"";
     background-size: contain;
-    background-image: url(https://i.imgur.com/F18pVic.png) !important;
+    background-image: url(https://i.imgur.com/tWaPx1Q.gif) !important;
     background-repeat: no-repeat;
-    height: 80.4527% !important;/*one day I solve this thing... I swear*/
-    width: 42.8812% !important;
-    transform: scaleX(-1); 
-    position: absolute;
-    bottom:-14%;
-    right:0%;
-}
-#online-tab [style*='background-image: url("/assets/b36de980b174d7b798c89f35c116e5c6.svg");']::after{
-    content:"";
-    background-size: contain;
-    background-image: url(https://i.imgur.com/F18pVic.png) !important;
-    background-repeat: no-repeat;
-    height: 80.4527% !important;/*one day I solve this thing... I swear*/
-    width: 42.8812% !important;
+    height: 82.4527% !important;/*one day I solve this thing... I swear*/
+    width: 44.8812% !important;
     transform: scaleX(1);
     position: absolute;
-    bottom:-14%;/*bruttino ma....*/
-    left:0%;
+    bottom:-40%;
+    right:-10%;
+}
+#online-tab [style*='background-image: url("/assets/b36de980b174d7b798c89f35c116e5c6.svg");']::after{
+    content:""; 
+    background-size: contain;
+    background-image: url(https://i.imgur.com/tWaPx1Q.gif) !important;
+    background-repeat: no-repeat;
+    height: 82.4527% !important;/*one day I solve this thing... I swear*/
+    width: 44.8812% !important;
+    transform: scaleX(-1);
+    position: absolute;
+    bottom:-40%;/*bruttino ma....*/
+    left:-10%;
 }
 #online-tab .flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyCenter-3D2jYp.alignCenter-1dQNNs.noWrap-3jynv6.wrapper-r-6rrt{
     max-width: none;
@@ -42,4 +38,4 @@
     justify-content:flex-end !important;
 }
 #online-tab .image-1GzsFd.marginBottom40-2vIwTv{margin-bottom:0px!important;}
-#online-tab .text-GwUZgS{display: none;}
+#online-tab .text-27cdrj.marginTop8-24uXGp{display: none;}
