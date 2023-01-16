@@ -1,5 +1,3 @@
-# animeDenceTheme
-better discrod add* theme
+# betterDiscordThemesSnip
 
-
-Creates a animated wallpaper that appears instead of the Wumpus on the screen of online friends
+snip for better discord themes
